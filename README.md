@@ -1,5 +1,5 @@
 # hello-world
 hello-world and other
 
-Hi, gays!
+Hi, guys!
 My name is Magomed
